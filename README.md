@@ -6,4 +6,4 @@ i'm making a possible list of schools for myself, so i'll start making a list he
 
 https://arxiv.org/pdf/2301.03140.pdf 
 
-https://github.com/emeryberger/CSrankings
+https://github.com/emeryberger/CSrankings/blob/gh-pages/csrankings.csv
